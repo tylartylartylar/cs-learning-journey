@@ -15,7 +15,7 @@ This repository documents my self-study computer science education, following a 
 ## 📚 Current Progress
 - **Current Course**: Missing Semester of CS Education
 - **Status**: Week 1 of 2
-- **Start Date**: [Your Start Date]
+- **Start Date**: 02/08/2025
 
 ## 🗺️ Curriculum Map
 
@@ -73,7 +73,7 @@ This repository documents my self-study computer science education, following a 
 - [Future projects to be added]
 
 ## 📝 Learning Log
-### Week 1 - [Date]
+### Week 1 - 02/08/2025
 - Started Missing Semester course
 - Set up Git and GitHub
 - Created basic development environment
